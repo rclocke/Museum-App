@@ -6,7 +6,7 @@
 * 
 *  Name: Ryan Locke Student ID: 034748129 Date: December 2, 2022
 *
-*  Vercel App (Deployed) Link: _____________________________________________________
+*  Vercel App (Deployed) Link: https://web422-assignment6-eta.vercel.app/
 *
 ********************************************************************************/ 
 
